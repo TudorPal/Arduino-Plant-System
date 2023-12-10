@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Year>2007</b:Year>
+        <b:Volume>20</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>DR-BROKERING: A semantic brokering system.</b:Title>
+        <b:Tag>Antoniou2007</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Antoniou</b:Last>
+                        <b:First>Grigoris</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Skylogiannis</b:Last>
+                        <b:First>Thomas</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Bikakis</b:Last>
+                        <b:First>Antonis</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Doerr</b:Last>
+                        <b:First>Martin</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Bassiliades</b:Last>
+                        <b:First>Nick</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>61-72</b:Pages>
+        <b:JournalName>Knowledge-Based Systems</b:JournalName>
+        <b:Number>1</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>July 2003</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Nonmonotonic Commitment Machines</b:Title>
+        <b:Tag>ChopraJuly2003</b:Tag>
+        <b:BookTitle>Proceedings of the International Workshop on Agent Communication Languages and Conversation Policies</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Chopra</b:Last>
+                        <b:Middle>K.</b:Middle>
+                        <b:First>Amit</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Singh</b:Last>
+                        <b:Middle>P.</b:Middle>
+                        <b:First>Munindar</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ConferenceName>Proceedings of the International Workshop on Agent Communication Languages and Conversation Policies</b:ConferenceName>
+        <b:City>Melbourne</b:City>
+        <b:StateProvince>Australia</b:StateProvince>
+        <b:CountryRegion/>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Security in Computing, 5th Edition</b:Title>
+        <b:Tag>Pfleeger2015</b:Tag>
+        <b:Publisher>Pearson</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Pfleeger</b:Last>
+                        <b:Middle>P.</b:Middle>
+                        <b:First>Charles</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Pfleeger</b:Last>
+                        <b:Middle>Lawrence</b:Middle>
+                        <b:First>Shari</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Margulies</b:Last>
+                        <b:First>Jonathan</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Year>2015</b:Year>
+    </b:Source>
+    <b:Source>
+        <b:Year>2003</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>THE CONFLICT BETWEEN NEGOTIATION AND LITIGATION WHEN BUILDING MEDIATION DECISION SUPPORT SYSTEMS</b:Title>
+        <b:Tag>Bellucci2003</b:Tag>
+        <b:BookTitle>ICAIL 2003 ODRWorkshop</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Bellucci</b:Last>
+                        <b:First>Emilia</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Zeleznikow</b:Last>
+                        <b:First>John</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>51–60</b:Pages>
+        <b:ConferenceName>ICAIL 2003 ODRWorkshop</b:ConferenceName>
+        <b:City>Edinburgh</b:City>
+        <b:StateProvince>Scotland</b:StateProvince>
+        <b:CountryRegion>UK</b:CountryRegion>
+    </b:Source>
+    <b:Source>
+        <b:Year>2004</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Integrating Artificial Intelligence, Argumentation and Game Theory to Develop an Online Dispute Resolution Environment.</b:Title>
+        <b:Tag>Bellucci2004</b:Tag>
+        <b:Publisher>#ieeecs#</b:Publisher>
+        <b:BookTitle>16th International Conference on Tools with Artificial Intelligence</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Bellucci</b:Last>
+                        <b:First>Emilia</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lodder</b:Last>
+                        <b:First>Arno</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Zeleznikow</b:Last>
+                        <b:First>John</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>749-754</b:Pages>
+        <b:ConferenceName>16th International Conference on Tools with Artificial Intelligence</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2004</b:Year>
+        <b:Volume>19</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Defeasible logic with dynamic priorities.</b:Title>
+        <b:Tag>Antoniou2004</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Antoniou</b:Last>
+                        <b:First>Grigoris</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>463-472</b:Pages>
+        <b:JournalName>International Journal of Intelligent Systems</b:JournalName>
+        <b:Number>5</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2005</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>A Synthesis Between Mental Attitudes and Social Commitments in Agent Communication Languages</b:Title>
+        <b:Tag>Boella2005</b:Tag>
+        <b:BookTitle>Intelligent Agent Technology 05 (IAT 2005)</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Boella</b:Last>
+                        <b:First>Guido</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Hulstijn</b:Last>
+                        <b:First>Joris</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>van der Torre</b:Last>
+                        <b:First>Leendert</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>358-364</b:Pages>
+        <b:ConferenceName>Intelligent Agent Technology 05 (IAT 2005)</b:ConferenceName>
+        <b:City>Compiegne</b:City>
+        <b:StateProvince>France</b:StateProvince>
+        <b:CountryRegion/>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Forging Papers to Sell Fake Art</b:Title>
+        <b:Tag>FBI2017</b:Tag>
+        <b:URL>https://www.fbi.gov/news/stories/forging-papers-to-sell-fake-art</b:URL>
+        <b:YearAccessed>2021</b:YearAccessed>
+        <b:MonthAccessed>March</b:MonthAccessed>
+        <b:DayAccessed>17</b:DayAccessed>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>FBI</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Year>2017</b:Year>
+        <b:Month>April</b:Month>
+        <b:PublicationTitle>Forging Papers to Sell Fake Art</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2005</b:Year>
+        <b:Volume>13</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Developing negotiation decision support systems that support mediators: A case study of the Family Winner system</b:Title>
+        <b:Tag>Bellucci2005</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Bellucci</b:Last>
+                        <b:First>Emilia</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Zeleznikow</b:Last>
+                        <b:First>John</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>233-271</b:Pages>
+        <b:JournalName>Artificial Intelligence and Law</b:JournalName>
+        <b:Number>2</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2005</b:Year>
+        <b:Volume>51</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Supply chain coordination with revenue sharing contracts: strengths and limitations</b:Title>
+        <b:Tag>Cachon2005</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Cachon</b:Last>
+                        <b:First>Gerard</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lariviere</b:Last>
+                        <b:First>Martin</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>30-44</b:Pages>
+        <b:JournalName>Management Science</b:JournalName>
+        <b:Number>1</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2005</b:Year>
+        <b:Volume>3451</b:Volume>
+        <b:BIBTEX_Series>Lecture Notes in Computer Science</b:BIBTEX_Series>
+        <b:BIBTEX_Entry>incollection</b:BIBTEX_Entry>
+        <b:SourceType>BookSection</b:SourceType>
+        <b:Title>Modelling Flexible Social Commitments and their Enforcement</b:Title>
+        <b:Tag>Pasquier2005</b:Tag>
+        <b:Publisher>Springer Verlag</b:Publisher>
+        <b:BookTitle>Engineering Societies in the Agents World V</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Pasquier</b:Last>
+                        <b:First>Philippe</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Flores</b:Last>
+                        <b:First>Roberto</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Chaib-draa</b:Last>
+                        <b:First>Brahim</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>139-151</b:Pages>
+        <b:ConferenceName>Engineering Societies in the Agents World V</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2005</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>DR-BROKERING - A Defeasible Logic-Based System for Semantic Brokering.</b:Title>
+        <b:Tag>Antoniou2005</b:Tag>
+        <b:BookTitle>2005 IEEE International Conference on e-Technology, e-Commerce, and e-Services (EEE 2005), 29 March - 1 April 2005, Hong Kong, China</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Antoniou</b:Last>
+                        <b:First>Grigoris</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Skylogiannis</b:Last>
+                        <b:First>Thomas</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Bikakis</b:Last>
+                        <b:First>Antonis</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Bassiliades</b:Last>
+                        <b:First>Nick</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>414-417</b:Pages>
+        <b:ConferenceName>2005 IEEE International Conference on e-Technology, e-Commerce, and e-Services (EEE 2005), 29 March - 1 April 2005, Hong Kong, China</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>misc</b:BIBTEX_Entry>
+        <b:SourceType>Misc</b:SourceType>
+        <b:Title>Ajax Tutorial</b:Title>
+        <b:Tag>TutorialsPoint</b:Tag>
+        <b:URL>http://www.tutorialspoint.com/ajax/</b:URL>
+        <b:YearAccessed>2021</b:YearAccessed>
+        <b:MonthAccessed>March</b:MonthAccessed>
+        <b:DayAccessed>17</b:DayAccessed>
+        <b:Author>
+            <b:Author>
+                <b:Corporate>Tutorials Point</b:Corporate>
+            </b:Author>
+        </b:Author>
+        <b:PublicationTitle>Ajax Tutorial</b:PublicationTitle>
+    </b:Source>
+    <b:Source>
+        <b:Year>2006</b:Year>
+        <b:Volume>7</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Online Dispute Resolution: Consumer Redress in a Global Market Place.</b:Title>
+        <b:Tag>Calliess2006</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Calliess</b:Last>
+                        <b:First>Gralf-Peter</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>647-660</b:Pages>
+        <b:JournalName>German Law Journal</b:JournalName>
+        <b:Number>8</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2006</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>On Formalising Dialogue Systems for Argumentation in the Event Calculus</b:Title>
+        <b:Tag>Bodenstaff2006</b:Tag>
+        <b:BookTitle>the Eleventh International Workshop on Non-Monotonic Reasoning</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Bodenstaff</b:Last>
+                        <b:First>Lianne</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Prakken</b:Last>
+                        <b:First>Henry</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Vreeswijk</b:Last>
+                        <b:First>Gerard</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ConferenceName>the Eleventh International Workshop on Non-Monotonic Reasoning</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2006</b:Year>
+        <b:BIBTEX_Entry>proceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>5th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS 2006), Hakodate, Japan, May 8-12, 2006</b:Title>
+        <b:Tag>Nakashima2006</b:Tag>
+        <b:Publisher>ACM</b:Publisher>
+        <b:BookTitle>AAMAS</b:BookTitle>
+        <b:Author>
+            <b:Editor>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Nakashima</b:Last>
+                        <b:First>Hideyuki</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Wellman</b:Last>
+                        <b:Middle>P.</b:Middle>
+                        <b:First>Michael</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Weiss</b:Last>
+                        <b:First>Gerhard</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Stone</b:Last>
+                        <b:First>Peter</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Editor>
+        </b:Author>
+        <b:StandardNumber> ISBN: 1-59593-303-4</b:StandardNumber>
+        <b:ConferenceName>AAMAS</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2008</b:Year>
+        <b:Volume>13</b:Volume>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Software Engineering: Principles and Practice</b:Title>
+        <b:Tag>VanVliet2008</b:Tag>
+        <b:Publisher>John Wiley &amp; Sons Hoboken, NJ</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Van Vliet</b:Last>
+                        <b:First>Hans</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2004</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Contracts as Legal Institutions in Organizations of Autonomous Agents</b:Title>
+        <b:Tag>Boella2004</b:Tag>
+        <b:BookTitle>Proceedings of the Third International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS'04)</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Boella</b:Last>
+                        <b:First>Guido</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>van der Torre</b:Last>
+                        <b:First>Leendert</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>948–955</b:Pages>
+        <b:ConferenceName>Proceedings of the Third International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS'04)</b:ConferenceName>
+        <b:City>New</b:City>
+        <b:StateProvince>York</b:StateProvince>
+        <b:CountryRegion>US</b:CountryRegion>
+    </b:Source>
+    <b:Source>
+        <b:Year>1995</b:Year>
+        <b:Volume>2</b:Volume>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Artificial intelligence: a modern approach</b:Title>
+        <b:Tag>Russell1995</b:Tag>
+        <b:Publisher>Prentice hall Englewood Cliffs</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Russell</b:Last>
+                        <b:Middle>Jonathan</b:Middle>
+                        <b:First>Stuart</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Norvig</b:Last>
+                        <b:First>Peter</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Canny</b:Last>
+                        <b:Middle>F.</b:Middle>
+                        <b:First>John</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Malik</b:Last>
+                        <b:Middle>M.</b:Middle>
+                        <b:First>Jitendra</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Edwards</b:Last>
+                        <b:Middle>D.</b:Middle>
+                        <b:First>Douglas</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2002</b:Year>
+        <b:Volume>3</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Online Dispute Resolution Systems as Web Services</b:Title>
+        <b:Tag>Bonnet2002</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Bonnet</b:Last>
+                        <b:First>Vincent</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Boudaoud</b:Last>
+                        <b:First>Karima</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Gagnebin</b:Last>
+                        <b:First>Michael</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Harms</b:Last>
+                        <b:First>Jurgen</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Schultz</b:Last>
+                        <b:First>Thomas</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>57–74</b:Pages>
+        <b:JournalName>ICFAI Journal of Alternative Dispute Resolution</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_CrossRef>Nakashima2006</b:BIBTEX_CrossRef>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Contextualizing commitment protocol</b:Title>
+        <b:Tag>Chopra2006</b:Tag>
+        <b:BookTitle>AAMAS</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Chopra</b:Last>
+                        <b:Middle>K.</b:Middle>
+                        <b:First>Amit</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Singh</b:Last>
+                        <b:Middle>P.</b:Middle>
+                        <b:First>Munindar</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1345–1352</b:Pages>
+        <b:Year>2006</b:Year>
+        <b:ConferenceName>AAMAS</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2004</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>DAML-QoS Ontology for Web Services</b:Title>
+        <b:Tag>Zhou2004</b:Tag>
+        <b:Publisher>IEEE Computer Society</b:Publisher>
+        <b:BookTitle>ICWS '04: Proceedings of the IEEE International Conference on Web Services</b:BookTitle>
+        <b:DOI>http://dx.doi.org/10.1109/ICWS.2004.44</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Zhou</b:Last>
+                        <b:First>Chen</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Liang-Tien</b:Last>
+                        <b:First>Chia</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Bu-Sung</b:Last>
+                        <b:First>Lee</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>472</b:Pages>
+        <b:StandardNumber> ISBN: 0-7695-2167-3</b:StandardNumber>
+        <b:ConferenceName>ICWS '04: Proceedings of the IEEE International Conference on Web Services</b:ConferenceName>
+        <b:City>Washington</b:City>
+        <b:StateProvince>DC</b:StateProvince>
+        <b:CountryRegion>USA</b:CountryRegion>
+    </b:Source>
+    <b:Source>
+        <b:Year>1979</b:Year>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>The Elements of Style</b:Title>
+        <b:Tag>Strunk1979</b:Tag>
+        <b:Publisher>Macmillan</b:Publisher>
+        <b:Edition>Third</b:Edition>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Strunk</b:Last>
+                        <b:First>William</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>White</b:Last>
+                        <b:Middle>B.</b:Middle>
+                        <b:First>E.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2000</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>A Family of Defeasible Reasoning Logics and its Implementation.</b:Title>
+        <b:Tag>Antoniou2000</b:Tag>
+        <b:BookTitle>The 14th European Conference on Artificial Intelligence</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Antoniou</b:Last>
+                        <b:First>Grigoris</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Billington</b:Last>
+                        <b:First>David</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Governatori</b:Last>
+                        <b:First>Guido</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Maher</b:Last>
+                        <b:Middle>J.</b:Middle>
+                        <b:First>Michael</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Rock</b:Last>
+                        <b:First>Andrew</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>459-463</b:Pages>
+        <b:ConferenceName>The 14th European Conference on Artificial Intelligence</b:ConferenceName>
+    </b:Source>
+</b:Sources>
